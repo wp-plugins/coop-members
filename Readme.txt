@@ -28,7 +28,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
 
-= 0.1.0 =
+= 0.1.1 =
 1. 어드민 관리메뉴 위치 수정
 
 = 0.1.0 =
