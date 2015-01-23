@@ -27,8 +27,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 * 회원가입 요소: 아이디, 이메일, 비밀번호, 이름, 유선전화, 휴대폰, 주소 등
 
 
-공식홈페이지 http://www.wpcoop.kr
-페이스북 공식 페이지 https://www.facebook.com/wordpresscoop
+* 공식홈페이지 http://www.wpcoop.kr
+* 페이스북 공식 페이지 https://www.facebook.com/wordpresscoop
 
 == Installation ==
 
