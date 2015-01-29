@@ -139,6 +139,8 @@
 		    } else {
 		    	if($this->login_id != ''){
 		      	wp_redirect(get_the_permalink($this->login_id), 301);
+		      } else {
+		      	return $redirect_to;
 		      }
 		      exit();
 		    }
