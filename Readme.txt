@@ -39,8 +39,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
 
-= 0.1.1 =
+= 1.0.2 =
+1. 로그인 리다이렉션 오류 수정
+
+= 1.0.1 =
 1. 어드민 관리메뉴 위치 수정
 
-= 0.1.0 =
+= 1.0.0 =
 1. 릴리즈
