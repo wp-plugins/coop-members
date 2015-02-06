@@ -25,9 +25,9 @@
 
 			foreach($roles as $role => $name){
 				if($role == $user_role){
-					$options .= "<option selected>".$role."</option>";
+					$options .= "<option value='".$role."' selected>".$name."</option>";
 				} else {
-					$options .= "<option>".$role."</option>";
+					$options .= "<option value='".$role."'>".$name."</option>";
 				}
 			}
 
