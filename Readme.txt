@@ -41,6 +41,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 = 1.0.3 =
 1. 자바스크립트 / AJAX 일부 기능 오류 수정
+2. 비밀번호 초기화 일부 오류 수정
 
 = 1.0.2 =
 1. 로그인 리다이렉션 오류 수정

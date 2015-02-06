@@ -3,7 +3,7 @@
  Plugin Name: COOP Members
  Plugin URI: http://www.wpcoop.kr
  Description: 워드프레스협동조합 한국형 소셜로그인/회원가입 플러그인 입니다.
- Version: 1.0.2
+ Version: 1.0.3
  Author: Bryan Lee
  Author URI: http://www.wpcoop.kr
  License: GPL2
